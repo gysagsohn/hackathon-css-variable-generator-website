@@ -10,7 +10,7 @@ I original joined a team to start the project, but after 1 day or so, I came to 
 - "/generator" - CSS generator page 
 	- CSS generator available here 
 - "/generator/saved" - view list of saved themes 
-	- reads localstorage 
+	- reads localstorage  
 
 
 ## Contexts 
