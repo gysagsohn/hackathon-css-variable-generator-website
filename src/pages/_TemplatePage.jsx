@@ -5,10 +5,9 @@ import Footer from "../components/Footer";
 
 export default function Template(){
 
-
-    return (<>
-       	<Header />
+	return(<>
+		<Header />
 		<Outlet />
-		<Footer /> 
-    </>)
+		<Footer />
+	</>);
 }
